@@ -1,0 +1,16 @@
+/* styles.css */
+
+div {
+    color: rgb(230, 30, 30);
+    background-color: black;
+}
+
+p {
+    color: red;
+}
+
+h1 {
+    color: rgba(214, 81, 4, 0.555);
+    font-size: 48px;
+    text-align: center;
+}
